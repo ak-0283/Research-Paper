@@ -30,6 +30,18 @@ This section holds research focused on facial emotion recognition using computer
 
 ---
 
+👥 Collaboration Note
+🔬 Currently, my classmate and I are conducting a literature review on colon cancer and liver detection.
+You can check out our profiles here:
+
+@ak-0283
+
+@ankita14-p
+
+Stay tuned for updates in the repository related to this joint review!
+
+---
+
 ## 📑 Contribution & Collaboration
 
 This repository is currently maintained for personal research and academic exploration. Feel free to explore the papers and use them for learning purposes. PRs and ideas are welcome! 🚀
