@@ -30,15 +30,19 @@ This section holds research focused on facial emotion recognition using computer
 
 ---
 
-👥 Collaboration Note
-🔬 Currently, my classmate and I are conducting a literature review on colon cancer and liver detection.
+Sure! Here's the **👥 Collaboration Note** section with properly formatted clickable GitHub profile links using Markdown:
+
+---
+
+## 👥 Collaboration Note
+
+🔬 Currently, my classmate and I are conducting a **literature review on colon cancer and liver detection**.
 You can check out our profiles here:
 
-@ak-0283
+* [Ankita Nag](https://github.com/ankita14-p)
+* [Abhay Kumar](https://github.com/ak-0283)
 
-@ankita14-p
-
-Stay tuned for updates in the repository related to this joint review!
+📌 *Stay tuned for updates in the repository related to this joint review!*
 
 ---
 
