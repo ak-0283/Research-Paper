@@ -1,3 +1,15 @@
+## 👥 Collaboration Note
+
+🔬 Currently, my classmate and I are conducting a **literature review on colon cancer and liver detection**.
+You can check out our profiles here:
+
+* [Ankita Nag](https://github.com/ankita14-p)
+* [Abhay Kumar](https://github.com/ak-0283)
+
+📌 *Stay tuned for updates in the repository related to this joint review!*
+
+---
+
 # 🧠📁 Research Repository
 
 Welcome to my Research Repository! This repo is a centralized place where I organize and store my research papers and project files for various topics of interest. Each sub-repo contains in-depth studies and resources on a specific research area. 📚✨
