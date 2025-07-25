@@ -1,6 +1,6 @@
 ## 👥 Collaboration Note
 
-🔬 Currently, my classmate and I are conducting a **literature review on colon cancer and liver detection**.
+🔬 Currently, my classmate and I are conducting a **literature review on colon cancer and lung cancer detection**.
 You can check out our profiles here:
 
 * [Ankita Nag](https://github.com/ankita14-p)
