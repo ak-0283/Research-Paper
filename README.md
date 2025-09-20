@@ -1,18 +1,19 @@
+# 🧠📁 Research Repository
+
+Welcome to my **Research Repository**!
+This repo serves as a **centralized hub** where I organize and store research papers, project files, and notes across different domains of interest. Each section focuses on a specific research area, containing curated papers, resources, and insights. 📚✨
+
+---
+
 ## 👥 Collaboration Note
 
 🔬 Currently, my classmate and I are conducting a **literature review on colon cancer and lung cancer detection**.
-You can check out our profiles here:
 
 * [Ankita Nag](https://github.com/ankita14-p)
 * [Abhay Kumar](https://github.com/ak-0283)
 
-📌 *Stay tuned for updates in the repository related to this joint review!*
-
----
-
-# 🧠📁 Research Repository
-
-Welcome to my Research Repository! This repo is a centralized place where I organize and store my research papers and project files for various topics of interest. Each sub-repo contains in-depth studies and resources on a specific research area. 📚✨
+📌 *We have already reviewed **100+ papers**, which are tracked in this [Google Sheet](https://docs.google.com/spreadsheets/d/1Lq4lYRy9GrGqKat_i96jOrJM12_ynyFLdRDYX5peaDQ/edit?gid=0#gid=0).* <br>
+Stay tuned for further updates in this repository related to our joint review! 🚀
 
 ---
 
@@ -20,38 +21,50 @@ Welcome to my Research Repository! This repo is a centralized place where I orga
 
 ### 1. 🧬 `colon-cancer/`
 
-**Topic:** *Colon Cancer Research*  
-**Content:**  
-This folder contains a collection of research papers and studies related to colon cancer. The PDFs here cover various aspects including early detection, treatment options, biomarkers, and data analysis methods.
+**Topic:** *Colon Cancer Research*
+**Content:**
+A curated collection of research papers and studies related to colon cancer. Topics include:
 
-📌 *If you're interested in medical research, oncology, or cancer diagnostics, this is the section to explore.*
+* Early detection methods
+* Biomarkers and genetic markers
+* Treatment options and clinical trials
+* Data analysis & ML in oncology
+
+📌 *For anyone interested in medical research, oncology, or cancer diagnostics.*
 
 ---
 
 ### 2. 😊 `emotion-detection/`
 
-**Topic:** *Emotion Detection using OpenCV & Haar Cascade*  
-**Content:**  
-This section holds research focused on facial emotion recognition using computer vision. It includes resources, papers, and concepts related to:
+**Topic:** *Emotion Detection using OpenCV & Haar Cascade*
+**Content:**
+Research and resources focused on facial emotion recognition with computer vision. Includes:
 
-- OpenCV 🎥  
-- Haar Cascade classifiers 🧠  
-<!-- - Real-time emotion recognition 🕵️‍♂️ -> This will implement in future.  -->
+* OpenCV 🎥
+* Haar Cascade classifiers 🧠
 
-📌 *Great for AI enthusiasts, especially in the field of computer vision and affective computing.*
+<!-- Future: Real-time emotion recognition 🕵️‍♂️ -->  
+
+📌 *Great for AI enthusiasts in computer vision and affective computing.*
 
 ---
 
 ## 📑 Contribution & Collaboration
 
-This repository is currently maintained for personal research and academic exploration. Feel free to explore the papers and use them for learning purposes. PRs and ideas are welcome! 🚀
+This repository is maintained for **personal research and academic exploration**.
+
+* Feel free to browse the papers for learning.
+* PRs, suggestions, and collaborations are welcome! 💡
 
 ---
 
 ## 📝 License
 
-📄 This project is under an open academic sharing license. Please cite original authors of the papers if you use them in your work.
+📄 This project follows an **open academic sharing license**.
+👉 Please cite original authors when referencing any paper.
 
 ---
 
-🔗 Stay curious and keep learning!
+🔗 *Stay curious, keep exploring, and never stop learning!* ✨
+
+---
